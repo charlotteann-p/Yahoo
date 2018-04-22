@@ -1,0 +1,74 @@
+    1  cd 4-2
+    2  ls
+    3  git init
+    4  git remote add origin git@github.com:gulshat777/PVDSite.git
+    5  git add-A
+    6  git add -A
+    7  git commit -m First commit"
+    8  mkdir yahoofinance
+    9  cd yahoofinance/
+   10  git init
+   11  echo "# Yahoofinance-" >> README.md
+   12  git init
+   13  git add README.md
+   14  git commit -m "first commit"
+   15  git remote add origin https://github.com/Gul777/Yahoofinance-.git
+   16  git push -u origin master
+   17  ls
+   18  c9 index.html
+   19  touch index.html
+   20  c9 index.html
+   21  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+   22  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+   23  git status
+   24  git add .
+   25  git commit -m "add pages and images"
+   26  git push
+   27  git status
+   28  git add .
+   29  git space commit -m "updated and added files
+   30  git space commit -m "updated and added files"
+   31  git commit -m "updated and added files"
+   32* 
+   33  git add .
+   34  git commit -m 
+   35  git commit
+   36  git push
+   37  git status
+   38  git add .
+   39  git commit -m "Added click button, added image"
+   40  git push
+   41  git add
+   42  git add index.html
+   43  git commit
+   44  git push
+   45  ~
+   46  cd~
+   47  ls
+   48  ~
+   49  cd~
+   50  cd ~
+   51  pwd
+   52  cd ..
+   53  ls
+   54  cd~
+   55  cd ~
+   56  ls
+   57  cd workspace/
+   58  mkdir laureen
+   59  cd laureen
+   60  mkdir charlotte
+   61  cd charlotte
+   62  git clone Yahoo
+   63  git clone https://github.com/cpowning/Yahoo.git
+   64  cd charlotte
+   65  cd Yahoo
+   66  git checkout -b pr-GulshaMyrat
+   67  git push
+   68* 
+   69  git sataus
+   70  git push -u origin pr-charlotte
+   71  git push -u origin pr-GulshaMyrat
+   72  touch historyAprilYahooproject.txt
+   73  history
+   74  history >> historyAprilYahooproject.txt 
